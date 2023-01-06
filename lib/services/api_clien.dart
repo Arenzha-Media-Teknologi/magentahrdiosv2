@@ -14,7 +14,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:toast/toast.dart';
 
 // String base_url = "https://hrd.magentamediatama.net";
-String base_url = "http://hrd2.magentamediatama.net";
+String base_url = "https://hrd2.magentamediatama.net";
 // String base_url = "https://4bb5-114-142-173-24.ngrok.io";
 // String base_url = "https://magentahrd.arenzha.tech";
 // String base_url = "http://192.168.0.111:8000";
